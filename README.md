@@ -9,15 +9,11 @@ But those ~~bugs~~, I mean features, aren't going to build themselves (¬‿¬)
 
 ### Currently: [situatiekaart.nl](https://situatiekaart.nl/)
 
-My most recent project is a live map of the Netherlands that shows what's going on right now.\
-P2000 alerts from fire, ambulance and police, traffic jams and incidents from NDW data, train disruptions, and even the wind direction at each alert.\
-Because if you're going to stare at a map of other people's emergencies, you might as well know which way the smoke is blowing.
+My most recent project. A live map of the Netherlands with P2000 alerts, NDW traffic incidents and train disruptions.\
+The real fun is connecting the dots: which incident caused which slowdown.
 
-But the real fun is in connecting the dots.\
-Situatiekaart tries to work out which incident caused which slowdown, so that traffic jam isn't just a red line on a map anymore.\
-It's the crash two exits back, or the ambulance blocking a lane.
-
-It started as "I wonder where those sirens are going" and somehow ended up as a full map, correlating traffic events with random things like a bridge opening on the other side of the city (・_・;)
+It started as "I wonder where those sirens are going"...\
+and somehow ended up correlating traffic jams with a bridge opening on the other side of the city (-_-;)
 
 ---
 
