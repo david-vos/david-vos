@@ -13,7 +13,8 @@ My most recent project. A live map of the Netherlands with P2000 alerts, NDW tra
 The real fun is connecting the dots: which incident caused which slowdown.
 
 It started as "I wonder where those sirens are going"...\
-and somehow ended up correlating traffic jams with a bridge opening on the other side of the city (-_-;)
+and somehow ended up correlating traffic jams\
+with a bridge opening on the other side of the city (^_^;)
 
 ---
 
